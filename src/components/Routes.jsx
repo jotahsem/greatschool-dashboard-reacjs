@@ -8,8 +8,8 @@ import Posts from '../pages/Posts'
 const Routes = () => {
   return (
     <Switch>
-      <Route path='/' component={Dashboard} />
-      <Route path='/posts' component={Posts} />
+      <Route path='/' exact component={Dashboard} />
+      <Route path='/postagens' component={Posts} />
     </Switch>
   )
 }

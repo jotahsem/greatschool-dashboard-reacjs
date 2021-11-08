@@ -1,12 +1,12 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,300;0,400;0,500;0,700;0,900;1,100&display=swap');
 
 :root {
     --main-bg: #ffffff;
     --second-bg: #fafafb;
     --txt-color: #455560;
     --txt-white: #fff;
-    --main-color: #349eff;
-    --second-color: #62b4ff;
+    --main-color: #10244C;
+    --second-color: #021B79;
     --box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
 
     --main-bg-light: #ffffff;
@@ -19,8 +19,8 @@
     --txt-color-dark: #bbbbbb;
     --box-shadow-dark: rgba(0, 0, 0, 0.2) 0px 5px 10px;
 
-    --main-color-blue: #349eff;
-    --second-color-blue: #62b4ff;
+    --main-color-blue: #10244C;
+    --second-color-blue: #021B79;
 
     --main-color-red: #fb0b12;
     --second-color-red: #ff4a6b;
@@ -47,8 +47,8 @@
     -webkit-tap-highlight-color: transparent;
 }
 
-body {
-    font-family: "Roboto", sans-serif;
+body, input {
+    font-family: "Work Sans", sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     letter-spacing: 0.7px;

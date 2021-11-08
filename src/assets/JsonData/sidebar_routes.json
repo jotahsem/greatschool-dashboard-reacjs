@@ -1,0 +1,47 @@
+[
+  {
+      "display_name": "Visão Geral",
+      "route": "/",
+      "icon": "bx bx-category-alt"
+  },
+  {
+      "display_name": "Candidados",
+      "route": "/candidatos",
+      "icon": "bx bx-network-chart"
+  },
+  {
+      "display_name": "Vagas",
+      "route": "/vagas",
+      "icon": "bx bx-briefcase"
+  },
+  {
+      "display_name": "Matrículas",
+      "route": "/matriculas",
+      "icon": "bx bx-right-top-arrow-circle"
+  },
+  {
+      "display_name": "Postagens",
+      "route": "/postagens",
+      "icon": "bx bx-bar-chart-alt"
+  },
+  {
+      "display_name": "Categorias",
+      "route": "/categories",
+      "icon": "bx bx-list-ol"
+  },
+  {
+      "display_name": "discount",
+      "route": "/discount",
+      "icon": "bx bx-gift"
+  },
+  {
+      "display_name": "inventory",
+      "route": "/inventory",
+      "icon": "bx bx-store-alt"
+  },
+  {
+      "display_name": "settings",
+      "route": "/settings",
+      "icon": "bx bx-cog"
+  }
+]
